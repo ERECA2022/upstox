@@ -31,6 +31,6 @@ firebase.initializeApp(firebaseConfig);
    document.getElementById("name").value = null;
    document.getElementById("phone").value = null;
 
-   alert("Your Register has been submitted!")
+//    alert("Your Register has been submitted!")
   }
   
