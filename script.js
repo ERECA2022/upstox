@@ -18,7 +18,7 @@ firebase.initializeApp(firebaseConfig);
   // console.log(final)
   
   
-  // document.getElementById("phno").innerHTML = final;
+ document.getElementById("phno").innerHTML = final;
   
   function save(){
    var name = document.getElementById("name").value;
