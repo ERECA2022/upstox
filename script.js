@@ -31,7 +31,7 @@ firebase.initializeApp(firebaseConfig);
    document.getElementById("name").value = null;
    document.getElementById("phone").value = null;
     
-    windows.open("https://link.upstox.com/PqNzkta4fvAVTDJJ6");
+    windows.open('https://link.upstox.com/PqNzkta4fvAVTDJJ6')
    alert("Your Register has been submitted!")
   }
   
